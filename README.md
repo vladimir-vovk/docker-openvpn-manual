@@ -102,7 +102,7 @@ To enable autostart your OpenVPN server on system boot:
 ```
 systemctl enable docker.openvpn
 ```
-To check all docker container:
+To check all Docker containers:
 ```
 docker ps -a
 ```
