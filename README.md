@@ -1,4 +1,4 @@
-# Setup OpenVPN server with docker manual
+# OpenVPN server setup with docker
 
 This manual is based on awesome Kyle Manna's [kylemanna/docker-openvpn](https://github.com/kylemanna/docker-openvpn) repo and article [How To Run OpenVPN in a Docker Container on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-run-openvpn-in-a-docker-container-on-ubuntu-14-04), but updated for Ubuntu 16.04.
 
