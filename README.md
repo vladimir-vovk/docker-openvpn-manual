@@ -2,7 +2,7 @@
 
 This manual is based on awesome Kyle Manna's [kylemanna/docker-openvpn](https://github.com/kylemanna/docker-openvpn) repo and article [How To Run OpenVPN in a Docker Container on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-run-openvpn-in-a-docker-container-on-ubuntu-14-04), but updated for Ubuntu 16.04.
 
-* You need your own VPS with Ubuntu 16.04 and ssh access
+* You need your own VPS with Ubuntu 16.04 with ssh access
 * Check firewall settings of your VPS provider and open UDP 1194 port
 * In all examples replace: 
   * `user_name` with your VPS user name (`ubuntu`, by default on AWS)
